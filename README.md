@@ -1,7 +1,0 @@
-
-# PracticoGitHubIOJB-
-aaa
-bbb
-
-
-
