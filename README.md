@@ -32,10 +32,3 @@
     </footer>
 </body>
 </html>
-        <p>Email: contacto@barberiaiojb.com</p>
-    </section>
-    <footer>
-        &copy; 2024 Barbería IOJB
-    </footer>
-</body>
-</html>
